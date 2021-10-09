@@ -7,8 +7,8 @@
 <!-- the Compile on Save feature is turned off for the project. -->
 <!-- You can turn off the Compile on Save (or Deploy on Save) setting -->
 <!-- in the project's Project Properties dialog box.-->
-<project name="CPRG_Lab05" default="default" basedir=".">
-    <description>Builds, tests, and runs the project CPRG_Lab05.</description>
+<project name="CPRG352_Lab05" default="default" basedir=".">
+    <description>Builds, tests, and runs the project CPRG352_Lab05.</description>
     <import file="nbproject/build-impl.xml"/>
     <!--
 
